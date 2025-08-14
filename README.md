@@ -15,7 +15,7 @@
 - Sou estudante de matemática apaixonado por tecnologia e criatividade no ensino. Busco desenvolver ferramentas em Python para tornar conceitos matemáticos mais acessíveis e interativos.
 ---
 
-## 📖 Repositórios (Pinados)
+## 📖 Repositórios
 - **Exercism-Python**: Repositório mostrando a trajetória de estudos e resoluções das questões do Exercism
 ---
 - Contato: 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
