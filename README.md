@@ -4,11 +4,11 @@
 👨‍🎓 **Formação em Andamento**
 - Licenciatura em Matemática — Intituto de Matemática e Estatística da Universidade de São Paulo - IME-USP
 
-🔢 **Conhecimentos**
-- Matemática: lógica, abstração, resolução de problemas
+🧠 **Conhecimentos**
+- 🔢 Matemática: lógica, abstração, resolução de problemas
 
-🐍 **Linguagens**
-- Python — explorando automação e visualização de conceitos matemáticos
+💻 **Linguagens**
+- 🐍 Python: explorando automação e visualização de conceitos matemáticos
 ---
 
 ## ​ 👨‍🦲 Sobre mim
@@ -20,4 +20,4 @@
 ---
 
 
-[^1]: Contato: [https://www.linkedin.com/in/gabriel-henrique-faria-dias-64297a217/](...) • 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
+[^1]:Contato: [https://www.linkedin.com/in/gabriel-henrique-faria-dias-64297a217/](...) • 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
