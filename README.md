@@ -20,4 +20,4 @@ Sou estudante de matemática apaixonado por tecnologia e criatividade no ensino.
 ---
 
 
-###`rgb(9, 105, 218)`Contato: [https://www.linkedin.com/in/gabriel-henrique-faria-dias-64297a217/](...) • 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
+### Contato: :ln [https://www.linkedin.com/in/gabriel-henrique-faria-dias-64297a217/](...) • 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
