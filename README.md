@@ -18,6 +18,4 @@
 ## 📖 Repositórios (Pinados)
 - **Exercism-Python**: Repositório mostrando a trajetória de estudos e resoluções das questões do Exercism
 ---
-
-
-[^1]:Contato: [https://www.linkedin.com/in/gabriel-henrique-faria-dias-64297a217/](...) • 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
+- Contato: 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
