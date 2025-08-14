@@ -17,5 +17,6 @@
 
 ## 📖 Repositórios
 - **Exercism-Python**: Repositório mostrando a trajetória de estudos e resoluções das questões do Exercism
+- **Alfatech**: Projeto simples de front-end usando HTML e CSS para criar páginas estáticas.
 ---
 - Contato: 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
