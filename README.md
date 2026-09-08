@@ -3,9 +3,14 @@
  
 👨‍🎓 **Formação em Andamento**
 - Licenciatura em Matemática — Intituto de Matemática e Estatística da Universidade de São Paulo - IME-USP
+- Profissão: Anaçista de dados - Escola Britânica de artes criativas & tecnologia - EBAC
 
 🧠 **Conhecimentos**
-- 🔢 Matemática: lógica, abstração, resolução de problemas
+- Matemática
+- Estatística
+- Lógica de programação
+- Analista de dados
+- Machining learning
 
 💻 **Linguagens**
 - 🐍 Python: explorando automação e visualização de conceitos matemáticos
@@ -17,7 +22,6 @@
 
 ## 📖 Repositórios
 - **Exercism-Python**: Repositório mostrando a trajetória de estudos e resoluções das questões do Exercism.
-- **Alfatech**: Projeto simples de front-end usando HTML e CSS para criar páginas estáticas.
 - **Estudos**: Repositório que contém pequenos projetos e explicações sobre programas em Python, também demonstra a minha evolução de aprendizado na linguagem.
 ---
 - Contato: 📫 [henriquefariadiasg@gmail.com](...), aberto a colaborações!
