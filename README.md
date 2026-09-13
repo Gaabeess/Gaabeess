@@ -3,13 +3,14 @@
  
 👨‍🎓 **Formação em Andamento**
 - Licenciatura em Matemática — Intituto de Matemática e Estatística da Universidade de São Paulo - IME-USP
-- Profissão: Anaçista de dados - Escola Britânica de artes criativas & tecnologia - EBAC
+- Profissão: Analista de dados - Escola Britânica de artes criativas & tecnologia - EBAC
 
 🧠 **Conhecimentos**
 - Matemática
 - Estatística
-- Lógica de programação
-- Analista de dados
+- Git
+- SQL
+- Pandas
 - Machining learning
 
 💻 **Linguagens**
