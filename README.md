@@ -21,7 +21,7 @@
 ---
 
 ## ​ 👨‍🦲 Sobre mim
-- Sou estudante de matemática apaixonado por tecnologia e criatividade no ensino. Busco desenvolver ferramentas em Python para automações de processos e utilizar o SQL para manipulações de informações e query dentro de um banco de dados.
+- Sou estudante de matemática apaixonado por tecnologia e criatividade no ensino. Busco desenvolver ferramentas em Python para automações de processos e programas para resoluções de problemas.
 ---
 
 ## 📖 Repositórios
